@@ -11,6 +11,8 @@ ipykernel = "*"
 black = "*"
 scikit-learn = "*"
 matplotlib = "*"
+nltk = "*"
+fuzzywuzzy = "*"
 
 [dev-packages]
 
