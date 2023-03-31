@@ -1,7 +1,7 @@
 import pandas as pd
 import joblib
 
-df = pd.read_csv("labb/test_samples.csv")
+df = pd.read_csv("labb/test_sample.csv")
 model = joblib.load("labb/model.pkl")
 
 
